@@ -1,0 +1,362 @@
+{
+    "letter": {
+        "alef": {
+            "charCode": 1488,
+            "symbol": "\u05d0"
+        },
+        "bet": {
+            "charCode": 1489,
+            "symbol": "\u05d1"
+        },
+        "gimel": {
+            "charCode": 1490,
+            "symbol": "\u05d2"
+        },
+        "dalet": {
+            "charCode": 1491,
+            "symbol": "\u05d3"
+        },
+        "he": {
+            "charCode": 1492,
+            "symbol": "\u05d4"
+        },
+        "vav": {
+            "charCode": 1493,
+            "symbol": "\u05d5"
+        },
+        "zayin": {
+            "charCode": 1494,
+            "symbol": "\u05d6"
+        },
+        "het": {
+            "charCode": 1495,
+            "symbol": "\u05d7"
+        },
+        "tet": {
+            "charCode": 1496,
+            "symbol": "\u05d8"
+        },
+        "yod": {
+            "charCode": 1497,
+            "symbol": "\u05d9"
+        },
+        "final kaf": {
+            "charCode": 1498,
+            "symbol": "\u05da"
+        },
+        "kaf": {
+            "charCode": 1499,
+            "symbol": "\u05db"
+        },
+        "lamed": {
+            "charCode": 1500,
+            "symbol": "\u05dc"
+        },
+        "final mem": {
+            "charCode": 1501,
+            "symbol": "\u05dd"
+        },
+        "mem": {
+            "charCode": 1502,
+            "symbol": "\u05de"
+        },
+        "final nun": {
+            "charCode": 1503,
+            "symbol": "\u05df"
+        },
+        "nun": {
+            "charCode": 1504,
+            "symbol": "\u05e0"
+        },
+        "samekh": {
+            "charCode": 1505,
+            "symbol": "\u05e1"
+        },
+        "ayin": {
+            "charCode": 1506,
+            "symbol": "\u05e2"
+        },
+        "final pe": {
+            "charCode": 1507,
+            "symbol": "\u05e3"
+        },
+        "pe": {
+            "charCode": 1508,
+            "symbol": "\u05e4"
+        },
+        "final tsadi": {
+            "charCode": 1509,
+            "symbol": "\u05e5"
+        },
+        "tsadi": {
+            "charCode": 1510,
+            "symbol": "\u05e6"
+        },
+        "qof": {
+            "charCode": 1511,
+            "symbol": "\u05e7"
+        },
+        "resh": {
+            "charCode": 1512,
+            "symbol": "\u05e8"
+        },
+        "shin": {
+            "charCode": 1513,
+            "symbol": "\u05e9"
+        },
+        "tav": {
+            "charCode": 1514,
+            "symbol": "\u05ea"
+        }
+    },
+    "accent": {
+        "etnahta": {
+            "charCode": 1425,
+            "symbol": "\u0591"
+        },
+        "segol": {
+            "charCode": 1426,
+            "symbol": "\u0592"
+        },
+        "shalshelet": {
+            "charCode": 1427,
+            "symbol": "\u0593"
+        },
+        "zaqef qatan": {
+            "charCode": 1428,
+            "symbol": "\u0594"
+        },
+        "zaqef gadol": {
+            "charCode": 1429,
+            "symbol": "\u0595"
+        },
+        "tipeha": {
+            "charCode": 1430,
+            "symbol": "\u0596"
+        },
+        "revia": {
+            "charCode": 1431,
+            "symbol": "\u0597"
+        },
+        "zarqa": {
+            "charCode": 1432,
+            "symbol": "\u0598"
+        },
+        "pashta": {
+            "charCode": 1433,
+            "symbol": "\u0599"
+        },
+        "yetiv": {
+            "charCode": 1434,
+            "symbol": "\u059a"
+        },
+        "tevir": {
+            "charCode": 1435,
+            "symbol": "\u059b"
+        },
+        "geresh": {
+            "charCode": 1436,
+            "symbol": "\u059c"
+        },
+        "geresh muqdam": {
+            "charCode": 1437,
+            "symbol": "\u059d"
+        },
+        "gershayim": {
+            "charCode": 1438,
+            "symbol": "\u059e"
+        },
+        "qarney para": {
+            "charCode": 1439,
+            "symbol": "\u059f"
+        },
+        "telisha gedola": {
+            "charCode": 1440,
+            "symbol": "\u05a0"
+        },
+        "pazer": {
+            "charCode": 1441,
+            "symbol": "\u05a1"
+        },
+        "atnah hafukh": {
+            "charCode": 1442,
+            "symbol": "\u05a2"
+        },
+        "munah": {
+            "charCode": 1443,
+            "symbol": "\u05a3"
+        },
+        "mahapakh": {
+            "charCode": 1444,
+            "symbol": "\u05a4"
+        },
+        "merkha": {
+            "charCode": 1445,
+            "symbol": "\u05a5"
+        },
+        "merkha kefula": {
+            "charCode": 1446,
+            "symbol": "\u05a6"
+        },
+        "darga": {
+            "charCode": 1447,
+            "symbol": "\u05a7"
+        },
+        "qadma": {
+            "charCode": 1448,
+            "symbol": "\u05a8"
+        },
+        "telisha qetana": {
+            "charCode": 1449,
+            "symbol": "\u05a9"
+        },
+        "yerah ben yomo": {
+            "charCode": 1450,
+            "symbol": "\u05aa"
+        },
+        "ole": {
+            "charCode": 1451,
+            "symbol": "\u05ab"
+        },
+        "iluy": {
+            "charCode": 1452,
+            "symbol": "\u05ac"
+        },
+        "dehi": {
+            "charCode": 1453,
+            "symbol": "\u05ad"
+        },
+        "zinor": {
+            "charCode": 1454,
+            "symbol": "\u05ae"
+        }
+    },
+    "point": {
+        "sheva": {
+            "charCode": 1456,
+            "symbol": "\u05b0"
+        },
+        "hataf segol": {
+            "charCode": 1457,
+            "symbol": "\u05b1"
+        },
+        "hataf patah": {
+            "charCode": 1458,
+            "symbol": "\u05b2"
+        },
+        "hataf qamats": {
+            "charCode": 1459,
+            "symbol": "\u05b3"
+        },
+        "hiriq": {
+            "charCode": 1460,
+            "symbol": "\u05b4"
+        },
+        "tsere": {
+            "charCode": 1461,
+            "symbol": "\u05b5"
+        },
+        "segol": {
+            "charCode": 1462,
+            "symbol": "\u05b6"
+        },
+        "patah": {
+            "charCode": 1463,
+            "symbol": "\u05b7"
+        },
+        "qamats": {
+            "charCode": 1464,
+            "symbol": "\u05b8"
+        },
+        "holam": {
+            "charCode": 1465,
+            "symbol": "\u05b9"
+        },
+        "holam haser for vav": {
+            "charCode": 1466,
+            "symbol": "\u05ba"
+        },
+        "qubuts": {
+            "charCode": 1467,
+            "symbol": "\u05bb"
+        },
+        "dagesh or mapiq": {
+            "charCode": 1468,
+            "symbol": "\u05bc"
+        },
+        "meteg": {
+            "charCode": 1469,
+            "symbol": "\u05bd"
+        },
+        "rafe": {
+            "charCode": 1471,
+            "symbol": "\u05bf"
+        },
+        "shin dot": {
+            "charCode": 1473,
+            "symbol": "\u05c1"
+        },
+        "sin dot": {
+            "charCode": 1474,
+            "symbol": "\u05c2"
+        },
+        "qamats qatan": {
+            "charCode": 1479,
+            "symbol": "\u05c7"
+        }
+    },
+    "mark": {
+        "masora circle": {
+            "charCode": 1455,
+            "symbol": "\u05af"
+        },
+        "upper dot": {
+            "charCode": 1476,
+            "symbol": "\u05c4"
+        },
+        "lower dot": {
+            "charCode": 1477,
+            "symbol": "\u05c5"
+        }
+    },
+    "ligature": {
+        "yiddish double vav": {
+            "charCode": 1520,
+            "symbol": "\u05f0"
+        },
+        "yiddish vav yod": {
+            "charCode": 1521,
+            "symbol": "\u05f1"
+        },
+        "yiddish double yod": {
+            "charCode": 1522,
+            "symbol": "\u05f2"
+        }
+    },
+    "punctuation": {
+        "maqaf": {
+            "charCode": 1470,
+            "symbol": "\u05be"
+        },
+        "paseq": {
+            "charCode": 1472,
+            "symbol": "\u05c0"
+        },
+        "sof pasuq": {
+            "charCode": 1475,
+            "symbol": "\u05c3"
+        },
+        "nun hafukha": {
+            "charCode": 1478,
+            "symbol": "\u05c6"
+        },
+        "geresh": {
+            "charCode": 1523,
+            "symbol": "\u05f3"
+        },
+        "gershayim": {
+            "charCode": 1524,
+            "symbol": "\u05f4"
+        }
+    }
+}
